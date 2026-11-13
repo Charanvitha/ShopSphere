@@ -1,0 +1,314 @@
+[
+  {
+    "rating": 4.8,
+    "price": 899,
+    "badge": "Best Seller",
+    "id": 1,
+    "reviewCount": 1240,
+    "name": "Nova X Pro Smartphone",
+    "image": "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?auto=format&fit=crop&w=900&q=85",
+    "description": "A fast, bright smartphone with a pro camera system.",
+    "category": "Electronics"
+  },
+  {
+    "rating": 4.5,
+    "price": 129,
+    "badge": "Best Seller",
+    "id": 2,
+    "reviewCount": 862,
+    "name": "AeroBuds Wireless Earbuds",
+    "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=900&q=85",
+    "description": "Compact wireless earbuds with clear sound and comfortable fit.",
+    "category": "Electronics"
+  },
+  {
+    "rating": 4.7,
+    "price": 249,
+    "badge": "New Arrival",
+    "id": 3,
+    "reviewCount": 534,
+    "name": "Studio Pro Headphones",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=85",
+    "description": "Over-ear headphones tuned for detailed listening.",
+    "category": "Electronics"
+  },
+  {
+    "reviewCount": 318,
+    "rating": 4.4,
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=900&q=85",
+    "price": 379,
+    "name": "PixelView 27-inch Monitor",
+    "category": "Electronics",
+    "description": "A crisp display for work, study, and entertainment."
+  },
+  {
+    "reviewCount": 429,
+    "rating": 4.6,
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=900&q=85",
+    "price": 109,
+    "name": "KeyPro Mechanical Keyboard",
+    "category": "Electronics",
+    "description": "A compact mechanical keyboard with satisfying tactile keys."
+  },
+  {
+    "rating": 4.2,
+    "price": 199,
+    "badge": "New Arrival",
+    "id": 6,
+    "reviewCount": 675,
+    "name": "Pulse Fitness Watch",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=85",
+    "description": "Track activity, sleep, and daily goals at a glance.",
+    "category": "Electronics"
+  },
+  {
+    "reviewCount": 291,
+    "rating": 4.3,
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=900&q=85",
+    "price": 89,
+    "name": "Luma Portable Speaker",
+    "category": "Electronics",
+    "description": "Room-filling sound in a travel-friendly design."
+  },
+  {
+    "reviewCount": 503,
+    "rating": 4.7,
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85",
+    "price": 1199,
+    "name": "AirLite Laptop 14",
+    "category": "Electronics",
+    "description": "A lightweight laptop built for everyday productivity."
+  },
+  {
+    "reviewCount": 412,
+    "rating": 4.3,
+    "id": 9,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
+    "price": 28,
+    "name": "Classic Cotton Crew Tee",
+    "category": "Apparel",
+    "description": "A soft everyday cotton tee with a relaxed fit."
+  },
+  {
+    "rating": 4.5,
+    "price": 94,
+    "badge": "Best Seller",
+    "id": 10,
+    "reviewCount": 237,
+    "name": "Everyday Denim Jacket",
+    "image": "https://images.unsplash.com/photo-1543076447-215ad9ba6923?auto=format&fit=crop&w=900&q=85",
+    "description": "A timeless denim layer made for everyday wear.",
+    "category": "Apparel"
+  },
+  {
+    "reviewCount": 186,
+    "rating": 4.6,
+    "id": 11,
+    "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=900&q=85",
+    "price": 118,
+    "name": "Merino Knit Sweater",
+    "category": "Apparel",
+    "description": "A soft merino blend sweater with a clean silhouette."
+  },
+  {
+    "rating": 4.1,
+    "price": 68,
+    "badge": "New Arrival",
+    "id": 12,
+    "reviewCount": 98,
+    "name": "Linen Weekend Shirt",
+    "image": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=900&q=85",
+    "description": "A breathable linen shirt for relaxed days.",
+    "category": "Apparel"
+  },
+  {
+    "reviewCount": 143,
+    "rating": 4.2,
+    "id": 13,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=900&q=85",
+    "price": 76,
+    "name": "City Chino Trousers",
+    "category": "Apparel",
+    "description": "Versatile straight-leg chinos with a comfortable stretch."
+  },
+  {
+    "reviewCount": 355,
+    "rating": 4.7,
+    "id": 14,
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=900&q=85",
+    "price": 72,
+    "name": "Cloud Fleece Hoodie",
+    "category": "Apparel",
+    "description": "A cozy fleece hoodie for cool mornings and evenings."
+  },
+  {
+    "rating": 4.6,
+    "price": 145,
+    "badge": "Best Seller",
+    "id": 15,
+    "reviewCount": 722,
+    "name": "Trail Runner Sneakers",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85",
+    "description": "Lightweight trail shoes with dependable grip.",
+    "category": "Footwear"
+  },
+  {
+    "reviewCount": 481,
+    "rating": 4.4,
+    "id": 16,
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=85",
+    "price": 110,
+    "name": "Court Classic Leather Sneakers",
+    "category": "Footwear",
+    "description": "Clean leather sneakers that pair with almost anything."
+  },
+  {
+    "reviewCount": 309,
+    "rating": 4.8,
+    "id": 17,
+    "image": "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?auto=format&fit=crop&w=900&q=85",
+    "price": 189,
+    "name": "Summit Hiking Boots",
+    "category": "Footwear",
+    "description": "Supportive waterproof boots for demanding trails."
+  },
+  {
+    "reviewCount": 167,
+    "rating": 4.0,
+    "id": 18,
+    "image": "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=85",
+    "price": 84,
+    "name": "Ballet Flat in Sand",
+    "category": "Footwear",
+    "description": "A flexible flat with a cushioned insole."
+  },
+  {
+    "reviewCount": 204,
+    "rating": 3.9,
+    "id": 19,
+    "image": "https://images.unsplash.com/photo-1603487742131-4160ec999306?auto=format&fit=crop&w=900&q=85",
+    "price": 42,
+    "name": "Coastal Slide Sandals",
+    "category": "Footwear",
+    "description": "Easy slip-on sandals for warm weather."
+  },
+  {
+    "rating": 4.5,
+    "price": 229,
+    "badge": "New Arrival",
+    "id": 20,
+    "reviewCount": 155,
+    "name": "Arc Floor Lamp",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=85",
+    "description": "A sculptural floor lamp with warm ambient light.",
+    "category": "Home & Living"
+  },
+  {
+    "reviewCount": 298,
+    "rating": 4.7,
+    "id": 21,
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=900&q=85",
+    "price": 54,
+    "name": "Ceramic Pour-Over Set",
+    "category": "Home & Living",
+    "description": "A handmade ceramic brewer and matching cup."
+  },
+  {
+    "reviewCount": 116,
+    "rating": 4.4,
+    "id": 22,
+    "image": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=900&q=85",
+    "price": 98,
+    "name": "Loom Cotton Throw",
+    "category": "Home & Living",
+    "description": "A textured cotton throw for the sofa or bed."
+  },
+  {
+    "reviewCount": 83,
+    "rating": 4.2,
+    "id": 23,
+    "image": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=900&q=85",
+    "price": 79,
+    "name": "Minimal Oak Wall Clock",
+    "category": "Home & Living",
+    "description": "A quiet, minimalist clock with a natural oak finish."
+  },
+  {
+    "rating": 4.6,
+    "price": 46,
+    "badge": "Best Seller",
+    "id": 24,
+    "reviewCount": 342,
+    "name": "Scented Candle Trio",
+    "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=900&q=85",
+    "description": "Three clean-burning candles in calming seasonal scents.",
+    "category": "Home & Living"
+  },
+  {
+    "reviewCount": 271,
+    "rating": 4.7,
+    "id": 25,
+    "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=85",
+    "price": 158,
+    "name": "Everyday Leather Tote",
+    "category": "Accessories",
+    "description": "A roomy leather tote with considered interior pockets."
+  },
+  {
+    "rating": 4.3,
+    "price": 88,
+    "badge": "Best Seller",
+    "id": 26,
+    "reviewCount": 390,
+    "name": "Metro Canvas Backpack",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85",
+    "description": "A durable canvas backpack for commuting and weekends.",
+    "category": "Accessories"
+  },
+  {
+    "reviewCount": 124,
+    "rating": 4.1,
+    "id": 27,
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=900&q=85",
+    "price": 132,
+    "name": "Polarized Avery Sunglasses",
+    "category": "Accessories",
+    "description": "Classic polarized frames with full UV protection."
+  },
+  {
+    "reviewCount": 206,
+    "rating": 4.5,
+    "id": 28,
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=85",
+    "price": 49,
+    "name": "Slimline Card Holder",
+    "category": "Accessories",
+    "description": "A compact leather card holder for daily essentials."
+  },
+  {
+    "rating": 4.4,
+    "price": 36,
+    "badge": "New Arrival",
+    "id": 29,
+    "reviewCount": 519,
+    "name": "Stainless Travel Bottle",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=900&q=85",
+    "description": "A double-wall bottle that keeps drinks cold for hours.",
+    "category": "Accessories"
+  },
+  {
+    "reviewCount": 92,
+    "rating": 4.0,
+    "id": 30,
+    "image": "https://images.unsplash.com/photo-1624222247344-550fb8d4e6d1?auto=format&fit=crop&w=900&q=85",
+    "price": 64,
+    "name": "Woven Leather Belt",
+    "category": "Accessories",
+    "description": "A versatile woven belt with a brushed metal buckle."
+  }
+]
+
